@@ -1,0 +1,6 @@
+Revision history for Perl extension Number::Phone::Country.
+
+0.01  Sat Jul  5 17:28:54 2003
+	- original version; created by h2xs 1.22 with options
+		-X -n Number::Phone::Country -b 5.6.0
+

@@ -1,0 +1,23 @@
+Number::Phone::Country version 0.01
+===================================
+
+This module lookups up the country based on a telephone number.
+It uses the International Direct Dialing (IDD) prefix, and
+lookups North American numbers using the Area Code, in accordance
+with the North America Numbering Plan (NANP).
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2003 MaxMind LLC
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself. 
